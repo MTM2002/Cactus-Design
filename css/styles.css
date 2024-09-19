@@ -171,6 +171,7 @@ a {
 .home {
   margin-top: 5rem !important;
   height: calc(100dvh - 72px);
+  padding-bottom: 4rem;
 }
 .home img {
   width: 270px;
